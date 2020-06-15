@@ -1,10 +1,11 @@
-import React, {Component} from 'react';
+import React, {Component, Fragment} from 'react';
+import FilmList from '../components/FilmList';
 
 class FilmReleases extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      filmReleases: [
+      films: [
           {
             id: 1,
             name: "Bill & Ted Face the Music",
@@ -69,7 +70,10 @@ class FilmReleases extends Component {
 
   render() {
     return (
-      <p>Hello</p>
+      <Fragment>
+        <h2>Film Releases 2020</h2>
+        <FilmList films={this.state.films}/>
+      </Fragment>
     )
   }
 }
