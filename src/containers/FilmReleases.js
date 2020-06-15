@@ -14,7 +14,7 @@ class FilmReleases extends Component {
             runtime: "TBC",
             genre: "Comedy, Music, Sci-Fi",
             releaseDate: "14 August 2020",
-            image: "../assets/images/billAndTed.jpg"
+            image: "billAndTed"
           },
           {
             id: 2,
@@ -24,7 +24,7 @@ class FilmReleases extends Component {
             runtime: "1h 30min",
             genre: "Action, Horror, Thriller",
             releaseDate: "11 March 2020",
-            image: "../assets/images/hunt.jpg"
+            image: "hunt"
           },
           {
             id: 3,
@@ -34,7 +34,7 @@ class FilmReleases extends Component {
             runtime: "2h 4min",
             genre: "Horror, Mystery, Sci-Fi",
             releaseDate: "28 February 2020 ",
-            image: "../assets/images/invisibleMan.jpg"
+            image: "invisibleMan"
           },
           {
             id: 4,
@@ -44,7 +44,7 @@ class FilmReleases extends Component {
             runtime: "1h 39min",
             genre: "Action, Adventure, Comedy",
             releaseDate: "14 February 2020",
-            image: "../assets/images/sonic.jpg"
+            image: "sonic"
           },
           {
             id: 5,
@@ -53,7 +53,7 @@ class FilmReleases extends Component {
             runtime: "1h 56min",
             genre: "Action, Crime, Thriller",
             releaseDate: "24 April 2020",
-            image: "../assets/images/extraction.jpg"
+            image: "extraction"
           },
           {
             id: 6,
@@ -62,7 +62,7 @@ class FilmReleases extends Component {
             runtime: "2h 4min",
             genre: "Action, Comedy, Crime",
             releaseDate: "17 January 2020",
-            image: "../assets/images/badBoys.jpg"
+            image: "badBoys"
           }
       ]
     }

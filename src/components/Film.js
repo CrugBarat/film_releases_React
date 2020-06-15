@@ -1,8 +1,12 @@
-import React from 'react';
+import React, {Fragment} from 'react';
+import getImage from '../helpers/imgMap.js';
 
 const Film = (props) => {
   return (
-    <p>{props.film.name}</p>
+    <Fragment>
+      <img src={getImage(props.film.image)} alt="Film"/>
+      <p>{props.film.name}</p>
+    </Fragment>
   )
 }
 
