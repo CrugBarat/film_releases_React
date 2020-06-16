@@ -1,4 +1,4 @@
-<img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film1.png" width="650"> <img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film2.png" height="365">
+<img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film1.png" width="650"> <img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film2.png" height="400">
 
 # Film Releases
 
