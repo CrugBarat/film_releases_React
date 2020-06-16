@@ -1,4 +1,4 @@
-<img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film1.png" width="300"> <img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film2.png" height="180">
+<img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film1.png" width="650"> <img src="https://github.com/CrugBarat/my_files/blob/master/film_releases/film2.png" height="365">
 
 # Film Releases
 
@@ -16,7 +16,7 @@ This exercise was tasked to me by CodeClan, Glasgow where I studied towards a PD
 
 # Brief
 
-You task is to plan and build an application that displays a list of upcoming film titles, each one linking to their IMDb page.
+Your task is to plan and build an application that displays a list of upcoming film titles, each one linking to their IMDb page.
 
 Implement the application in React.
 
