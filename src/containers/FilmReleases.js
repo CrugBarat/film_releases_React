@@ -87,6 +87,9 @@ class FilmReleases extends Component {
           </div>
         </div>
         <FilmList films={this.state.films}/>
+        <div className="imdb-link">
+          <a href="https://www.imdb.com/calendar/?region=gb">View All Latest Releases at IMDb</a>
+        </div>
       </Fragment>
     )
   }

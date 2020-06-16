@@ -16,7 +16,7 @@ const Film = (props) => {
       </div>
       <div className="film-description">
         <p>{props.film.description}</p>
-        <p className="film-link"><a  href={props.film.url}>Visit imDb for more detials</a></p>
+        <p className="film-link"><a  href={props.film.url}>Visit IMDb for more detials</a></p>
       </div>
     </div>
     </Fragment>

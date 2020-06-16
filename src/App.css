@@ -12,7 +12,7 @@ p, h2 {
 .menu-bar {
   background-color: #121212;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .menu-bar-contents {
@@ -89,4 +89,25 @@ p, h2 {
 
 .film-link {
   margin-top: 20px;
+}
+
+.imdb-link {
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 40px;
+  width: 470px;
+  background-color: #333333;
+  padding: 15px 32px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.imdb-link a {
+  text-decoration: none;
+  color: white;
+}
+
+.imdb-link:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
